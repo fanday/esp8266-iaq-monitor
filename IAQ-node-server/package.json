@@ -1,0 +1,13 @@
+{
+  "name": "IAQ-node",
+  "version": "0.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "influx": "^5.0.0-alpha.4"
+  }
+}
